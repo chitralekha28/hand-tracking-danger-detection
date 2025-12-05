@@ -83,6 +83,8 @@ Replace virtual rectangle with complex shapes
 
 👤 Author
 
-Chitralekha
+Chitralekha 
+
 Developed for Arvyax Internship Assignment
+
 December 2025
